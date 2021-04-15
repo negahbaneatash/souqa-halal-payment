@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/souqa-halal-payment/static/css/main.c08d0031.chunk.css",
-    "main.js": "/souqa-halal-payment/static/js/main.bf98eb23.chunk.js",
-    "main.js.map": "/souqa-halal-payment/static/js/main.bf98eb23.chunk.js.map",
-    "runtime-main.js": "/souqa-halal-payment/static/js/runtime-main.20241525.js",
-    "runtime-main.js.map": "/souqa-halal-payment/static/js/runtime-main.20241525.js.map",
+    "main.css": "/souqa-halal-payment/static/css/main.48688e29.chunk.css",
+    "main.js": "/souqa-halal-payment/static/js/main.79aa3e57.chunk.js",
+    "main.js.map": "/souqa-halal-payment/static/js/main.79aa3e57.chunk.js.map",
+    "runtime-main.js": "/souqa-halal-payment/static/js/runtime-main.cafd957b.js",
+    "runtime-main.js.map": "/souqa-halal-payment/static/js/runtime-main.cafd957b.js.map",
     "static/js/2.298259d3.chunk.js": "/souqa-halal-payment/static/js/2.298259d3.chunk.js",
     "static/js/2.298259d3.chunk.js.map": "/souqa-halal-payment/static/js/2.298259d3.chunk.js.map",
-    "static/js/3.b7ba1c5b.chunk.js": "/souqa-halal-payment/static/js/3.b7ba1c5b.chunk.js",
-    "static/js/3.b7ba1c5b.chunk.js.map": "/souqa-halal-payment/static/js/3.b7ba1c5b.chunk.js.map",
+    "static/js/3.0a6f98a0.chunk.js": "/souqa-halal-payment/static/js/3.0a6f98a0.chunk.js",
+    "static/js/3.0a6f98a0.chunk.js.map": "/souqa-halal-payment/static/js/3.0a6f98a0.chunk.js.map",
     "index.html": "/souqa-halal-payment/index.html",
-    "static/css/main.c08d0031.chunk.css.map": "/souqa-halal-payment/static/css/main.c08d0031.chunk.css.map",
+    "static/css/main.48688e29.chunk.css.map": "/souqa-halal-payment/static/css/main.48688e29.chunk.css.map",
     "static/js/2.298259d3.chunk.js.LICENSE.txt": "/souqa-halal-payment/static/js/2.298259d3.chunk.js.LICENSE.txt",
     "static/media/payHalal.7c0b96c4.svg": "/souqa-halal-payment/static/media/payHalal.7c0b96c4.svg",
     "static/media/shopping-bag.a688874f.svg": "/souqa-halal-payment/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20241525.js",
+    "static/js/runtime-main.cafd957b.js",
     "static/js/2.298259d3.chunk.js",
-    "static/css/main.c08d0031.chunk.css",
-    "static/js/main.bf98eb23.chunk.js"
+    "static/css/main.48688e29.chunk.css",
+    "static/js/main.79aa3e57.chunk.js"
   ]
 }
