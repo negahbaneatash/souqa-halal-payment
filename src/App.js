@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Header />
       <Switch>
-      <Route exact path='/' component={ShopPage} />
+      <Route exact path='/souqa-halal-payment' component={ShopPage} />
       </Switch>
     </div>
   );
