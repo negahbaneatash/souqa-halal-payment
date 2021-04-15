@@ -1,0 +1,18 @@
+.bm-container {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 70px;
+    margin-bottom: 0px;
+  
+    .bm-items {
+        margin: 0px 15px;
+        cursor: pointer;
+    }
+    .h-line{
+        margin-top: 0;
+        width: 100%;
+        
+    }
+}
