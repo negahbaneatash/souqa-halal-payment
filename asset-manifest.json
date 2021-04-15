@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/souqa-halal-payment/static/css/main.c08d0031.chunk.css",
-    "main.js": "/souqa-halal-payment/static/js/main.6ef67c96.chunk.js",
-    "main.js.map": "/souqa-halal-payment/static/js/main.6ef67c96.chunk.js.map",
+    "main.js": "/souqa-halal-payment/static/js/main.bf98eb23.chunk.js",
+    "main.js.map": "/souqa-halal-payment/static/js/main.bf98eb23.chunk.js.map",
     "runtime-main.js": "/souqa-halal-payment/static/js/runtime-main.20241525.js",
     "runtime-main.js.map": "/souqa-halal-payment/static/js/runtime-main.20241525.js.map",
     "static/js/2.298259d3.chunk.js": "/souqa-halal-payment/static/js/2.298259d3.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.20241525.js",
     "static/js/2.298259d3.chunk.js",
     "static/css/main.c08d0031.chunk.css",
-    "static/js/main.6ef67c96.chunk.js"
+    "static/js/main.bf98eb23.chunk.js"
   ]
 }
